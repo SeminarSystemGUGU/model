@@ -1,4 +1,4 @@
-package com.gugbird.model;
+package com.gugubird.model;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

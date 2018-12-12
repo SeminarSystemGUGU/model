@@ -1,4 +1,4 @@
-package com.gugbird.model;
+package com.gugubird.model;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
